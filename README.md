@@ -22,5 +22,6 @@ Assuming you breach_complition folder is on /Example-drive/breach-parse
 so just copy the 'breach-parse.sh' file to /Example-drive/breach-parse then just do:
 `./breach-parse.sh @domain.com output.txt`
 
+---
 
 Original repo: https://github.com/hmaverickadams/breach-parse
